@@ -17,7 +17,7 @@ Collection of featured repositories
 ### Private Fun
 - [fine-o-clock](https://github.com/causeri3/fine-o-clock)
 
-  Garmin Watch Face
+  Garmin Watch Face: [Fine'o Clock](https://apps.garmin.com/en-US/apps/46e9c768-4eb1-470c-93a8-29dd11219b61)
 
 - [emo-track](https://github.com/causeri3/emo-track)
 
