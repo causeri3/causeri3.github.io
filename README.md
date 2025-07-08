@@ -12,7 +12,7 @@ Collection of featured repositories
 
 - [face-detection-stream](https://github.com/causeri3/face-detection-stream)
 
-  Face detection with YOLOv8 for robotic head: Code for exhibition "Könnt ihr noch?" - Deichkind
+  Face detection with YOLOv8 for robotic head: Code for [exhibition "Könnt ihr noch?"](https://www.pinakothek-der-moderne.de/ausstellungen/koennt-ihr-noch-kunst-und-demokratie/) - Deichkind
 ---
 ### Private Fun
 - [fine-o-clock](https://github.com/causeri3/fine-o-clock)
