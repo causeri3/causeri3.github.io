@@ -22,11 +22,11 @@
 
   Source code for App [Emotions Track](https://apps.apple.com/de/app/emotionstrack/id6480473529?l=en-GB)
 
-- [hal-9000]([https://github.com/causeri3/fine-o-clock](https://github.com/causeri3/hal-9000)
+- [hal-9000](https://github.com/causeri3/hal-9000)
 
   Garmin Watch Face [HAL](https://apps.garmin.com/apps/1475aa04-a1f5-49dd-b9f4-b35391b26f03)
 
-- [hal-9000]([https://github.com/causeri3/retro-simple-watchface](https://github.com/causeri3/retro-simple-watchface)
+- [retro-simple-watchface](https://github.com/causeri3/retro-simple-watchface)
 
   Garmin Watch Face [Retro Simple](https://apps.garmin.com/apps/7836e8cf-f3df-4711-a1ee-6b68513e7d3e)
 ---
